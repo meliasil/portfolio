@@ -1,0 +1,26 @@
+.backToTop {
+  position: fixed;
+  bottom: 30px;
+  left: 50%;
+  transform: translateX(-50%);
+  padding: 10px 15px;
+  background-color: #d289f7;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+
+  &:hover {
+    background-color: #f6f6f6;
+    color: #34495e;
+  }
+}
+
+.hidden {
+  display: none;
+}
+
+.visible {
+  display: block;
+}

@@ -1,8 +1,9 @@
 import Head from "next/head";
-import Image from "next/image";
-import localFont from "next/font/local";
-import styles from "@/styles/Home.module.css";
-import Hero from "@/components/Molecules/Hero";
+import Hero from "@/components/Molecules/Hero/Hero";
+import About from "@/components/Molecules/About/About";
+import Experience from "@/components/Molecules/Experience/Experience";
+import Projects from "@/components/Molecules/Projects/Projects";
+import BackToTop from "@/components/Atoms/BackToTop/BackToTop";
 
 export default function Home() {
   return (
@@ -14,6 +15,10 @@ export default function Home() {
         <link rel="icon" href="/icons8-vespa-32.png" />
       </Head>
       <Hero />
+      <About />
+      <Projects />
+      <Experience />
+      <BackToTop />
     </>
   );
 }
