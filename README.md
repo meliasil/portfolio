@@ -1,40 +1,27 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Portfolio di Silvia Melia
 
-## Getting Started
+Benvenuto nel mio portfolio! Questo progetto è stato realizzato con l'intento di presentare le mie competenze e le esperienze nel campo dello sviluppo web. Qui troverai informazioni su di me, i miei progetti e le esperienze lavorative.
 
-First, run the development server:
+## Tecnologie Utilizzate
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+- **React**: Utilizzato per costruire l'interfaccia utente, consentendo un'esperienza interattiva e reattiva.
+- **Next.js**: Utilizzato come framework React per il rendering lato server e per migliorare le prestazioni SEO del sito.
+- **TypeScript**: Fornisce tipizzazione statica per il codice JavaScript, aumentando la robustezza e facilitando la manutenzione.
+- **Sass**: Usato per stilizzare il sito, consentendo la scrittura di CSS modulare e scalabile.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Funzionalità
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+- **Sezione Hero**: Presenta un'introduzione personale con un'immagine e un menu di navigazione per accedere facilmente alle diverse sezioni del portfolio.
+- **Sezione About**: Una panoramica della mia carriera, delle mie passioni e del mio percorso professionale.
+- **Sezione Projects**: Un elenco dei progetti realizzati, con descrizioni e link per visualizzarli.
+- **Sezione Experience**: Dettagli sulle mie esperienze lavorative, compiti svolti e aziende con cui ho collaborato.
+- **Navigazione Fluida**: Grazie alle ancore nel menu, gli utenti possono navigare facilmente tra le sezioni del portfolio.
+- **Animazioni**: Animazioni per migliorare l'esperienza utente e rendere il portfolio più dinamico.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+## Istruzioni per l'Installazione
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+Per eseguire il progetto in locale, segui questi semplici passi:
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+1. **Clona il repository**:
+   ```bash
+   git clone https://github.com/tuo-username/tuo-repo.git
