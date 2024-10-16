@@ -9,22 +9,21 @@ interface Project {
 
 const projects: Project[] = [
   {
-    name: "Personal Portfolio",
+    name: "HireGenius",
     description:
-      "A personal website showcasing my projects, experience, and skills.",
-    link: "https://myportfolio.com",
+      "An innovative application designed to help junior candidates, students, and anyone looking to effectively prepare for interviews, assessments, or quizzes. Leveraging the power of artificial intelligence, the app offers customizable simulations that allow users to tackle questions in a realistic and interactive manner.",
+    link: "https://github.com/meliasil/HireGenius",
   },
   {
-    name: "E-commerce Store",
+    name: "E-Commerce",
     description:
       "An online store built with React and Next.js, featuring product listings and payment integration.",
-    link: "https://mystore.com",
+    link: "https://github.com/meliasil/E-commerce",
   },
   {
-    name: "Weather App",
-    description:
-      "A weather forecasting app using OpenWeather API to display real-time weather conditions.",
-    link: "https://weatherapp.com",
+    name: "Companies Contacts",
+    description: "A business contact management app.",
+    link: "https://github.com/meliasil/Code-week-Companies-contacts",
   },
 ];
 
