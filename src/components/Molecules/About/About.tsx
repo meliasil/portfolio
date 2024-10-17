@@ -32,14 +32,14 @@ const About: React.FC = () => {
     >
       <h2>About</h2>
       <p>
-        "Hello! I&apos;m Silvia Melia, a passionate web developer with experience in
-        creating responsive and dynamic websites. Philosophy graduate, I decided
-        to broaden my horizons by embarking on a journey into coding and
+        Hello! I&apos;m Silvia Melia, a passionate web developer with experience
+        in creating responsive and dynamic websites. Philosophy graduate, I
+        decided to broaden my horizons by embarking on a journey into coding and
         front-end development. What connects these two worlds? My curiosity and
         the desire to explore different forms of expression. I am also
         passionate about politics and issues related to human rights and gender
         equality. In my free time, I find peace and inspiration in nature and
-        among my beloved olive trees."
+        among my beloved olive trees.
       </p>
     </section>
   );
