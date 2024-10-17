@@ -23,7 +23,7 @@ const projects: Project[] = [
   {
     name: "Companies Contacts",
     description: "A business contact management app.",
-    link: "https://github.com/meliasil/Code-week-Companies-contacts",
+    link: "https://companies-contacts.vercel.app/",
   },
 ];
 
