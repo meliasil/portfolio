@@ -7,7 +7,13 @@ const Hero: React.FC = () => {
     <section className={style.hero}>
       <GeometricShapes />
       <div className={style.title}>
-        <Image src="./foto.jpg" alt="Silvia Melia" />
+        <Image
+          className={style.img}
+          src="/foto.jpg"
+          alt="Silvia Melia"
+          width={210}
+          height={250}
+        />
         <h1>Silvia Melia</h1>
       </div>
       <div className={style.menu}>
