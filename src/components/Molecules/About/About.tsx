@@ -32,7 +32,7 @@ const About: React.FC = () => {
     >
       <h2>About</h2>
       <p>
-        "Hello! I&aposm Silvia Melia, a passionate web developer with experience in
+        "Hello! I&apos;m Silvia Melia, a passionate web developer with experience in
         creating responsive and dynamic websites. Philosophy graduate, I decided
         to broaden my horizons by embarking on a journey into coding and
         front-end development. What connects these two worlds? My curiosity and
